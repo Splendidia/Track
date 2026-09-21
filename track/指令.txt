@@ -1,0 +1,1 @@
+(base) dy@dy:~/下载/OrientedFormer/tools/track_test$ python evaluate_tracking_selected.py --base_dir /home/dy/NewDisk/pigtrackvideo --video_ids 8 9 10 13 14 --use_riou --max_age 20 --iou_threshold 0.7 --exp_name "R"
